@@ -1,4 +1,4 @@
-//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
+
 const sgMail = require('@sendgrid/mail')
 
 
